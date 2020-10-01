@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How To Run
+
+1. First run command npx create-react-app app.
+2. go inside app folder.
+3. replace public, src folder in app folder with repo app, src folder.
+4. replace package.json file
+5. run # npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
